@@ -16,7 +16,7 @@ I am passionate about helping other devs, whether through my writting or directl
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivangarzab&layout=compact)
 
-And here's a link to my [beacons page](https://beacons.ai/ivangarzab) to find all of my other links.
+For more information about me, and a full list of my links, check out [my website](https://ivangarzab.notion.site/main).
 
 If you've got any quesitons, please holla at me!
 
