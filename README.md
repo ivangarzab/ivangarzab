@@ -6,19 +6,19 @@
 [![StackOverflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13021452/iv%c3%a1n-garza-bermea)
 [![Google Play Badge](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white?style=flat-square&logo=Twitter&logoColor=white)](https://play.google.com/store/apps/developer?id=ivangarzab&hl=en)
 
-I am an 🇲🇽🇺🇸 Android Software Engineer @turo.
+I am an 🇲🇽🇺🇸 Android Software Engineer @turo by day, and philosophy student @sfsu by night.
 
-In my spare time, I enjoy reading writting about tech in [Medium](https://medium.com/@ivangarzab).  This includes how-to guides, meditations, and a little bit of show-and-tell.
+In my spare time, I enjoy gaming, reading and writting.  
 
-I am passionate about helping other devs, whether through my writting or directly on [StackOverflow](https://stackoverflow.com/users/13021452/iv%c3%a1n-garza-bermea).
+Here's a link to my blogs:
+- Tech: [Medium](https://medium.com/@ivangarzab)
+- Philosophy: [Substack](https://ivangarzab.substack.com)
 
-#### My GitHub Stats:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivangarzab&layout=compact)
+I am also passionate about helping other devs, whether through my writting or directly on [StackOverflow](https://stackoverflow.com/users/13021452/iv%c3%a1n-garza-bermea).
 
 ---------
 
-For more information about me, and a full list of my links, check out [my website](https://ivangarzab.notion.site/main).
+For more information about me, and a full list of my links, check out [my website](https://ivangarzab.com).
 
 If you've got any quesitons, please holla 👋🏽 at me!
 
